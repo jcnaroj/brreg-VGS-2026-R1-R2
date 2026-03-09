@@ -318,16 +318,16 @@ let grader = fahrenheitTilCelsius(77);
 
 #### Gruppeoppgaver
 Lette oppgaver
-* [Intro HTML/CSS (lett)](https://jsfiddle.net/Sion17/Luh45kxw/100/) Samme som i fjor.
-* [Fibonacci sekvens (lett)](https://jsfiddle.net/joakimvu/4dxgcfet/2/)
-* [Intro til å hente data(lett)](https://jsfiddle.net/joakimvu/fzvan749/21/)
+* [Intro HTML/CSS](https://jsfiddle.net/Sion17/Luh45kxw/100/) Samme som i fjor.
+* [Fibonacci sekvens](https://jsfiddle.net/joakimvu/4dxgcfet/2/)
+* [Intro til å hente data](https://jsfiddle.net/joakimvu/fzvan749/21/)
 
 Middels oppgaver 
-* [Animasjon (guide)](https://jsfiddle.net/Sion17/xtpq9dL8/97/)
-* [Sammenlign Variable (middels)](https://jsfiddle.net/Sion17/796rkwc8/9/)
+* [Animasjon](https://jsfiddle.net/Sion17/xtpq9dL8/97/)
+* [Sammenlign Variable](https://jsfiddle.net/Sion17/796rkwc8/9/)
 
 Vanskelige oppgaver
-* [Kalkulatoren (vanskelig)](https://jsfiddle.net/Sion17/4ugb05wy/20/)
+* [Kalkulatoren](https://jsfiddle.net/Sion17/4ugb05wy/20/)
 * [Cubic Tap](https://jsfiddle.net/dith0510/2wn3r7f0/2/)
 * [TODO Postit](https://jsfiddle.net/dith0510/0jog1q9h/)
 * [The Button](https://jsfiddle.net/dith0510/fkn26zyt/)
