@@ -317,12 +317,7 @@ let grader = fahrenheitTilCelsius(77);
 ## Linker
 
 #### Gruppeoppgaver
-##### IOT
-* [Gruppeoppgave 1](https://jsfiddle.net/Sion17/dfxuLan4/24/)
-* [Gruppeoppgave 2](https://jsfiddle.net/Sion17/7dc8nk6g/7/)
-* [Gruppeoppgave 3](https://jsfiddle.net/Sion17/Lg8n15jz/11/)
-
-##### Valgfrie Oppgaver
+* [Fibonacci sekvens (veldig lett)](https://jsfiddle.net/joakimvu/4dxgcfet/2/)
 * [Intro HTML/CSS (lett)](https://jsfiddle.net/Sion17/Luh45kxw/100/)
 * [Intro til å hente data(lett)](https://jsfiddle.net/joakimvu/fzvan749/21/)
 * [Animasjon (guide)](https://jsfiddle.net/Sion17/xtpq9dL8/97/)
