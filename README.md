@@ -318,7 +318,7 @@ let grader = fahrenheitTilCelsius(77);
 
 #### Gruppeoppgaver
 Lette oppgaver
-* [Intro HTML/CSS](https://jsfiddle.net/Sion17/Luh45kxw/100/) Samme som i fjor.
+* [Intro HTML/CSS](https://jsfiddle.net/Sion17/Luh45kxw/100/)
 * [Fibonacci sekvens](https://jsfiddle.net/joakimvu/4dxgcfet/2/)
 * [Intro til å hente data](https://jsfiddle.net/joakimvu/fzvan749/21/)
 
