@@ -324,7 +324,7 @@ let grader = fahrenheitTilCelsius(77);
 
 ##### Valgfrie Oppgaver
 * [Intro HTML/CSS (lett)](https://jsfiddle.net/Sion17/Luh45kxw/100/)
-* [Intro til å hente data(lett)(https://jsfiddle.net/joakimvu/fzvan749/21/)
+* [Intro til å hente data(lett)](https://jsfiddle.net/joakimvu/fzvan749/21/)
 * [Animasjon (guide)](https://jsfiddle.net/Sion17/xtpq9dL8/97/)
 * [Sammenlign Variable (middels)](https://jsfiddle.net/Sion17/796rkwc8/9/)
 * [Kalkulatoren (vanskelig)](https://jsfiddle.net/Sion17/4ugb05wy/20/)
