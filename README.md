@@ -3,7 +3,7 @@
   <h1 align="center">Grunnleggende javascript</h1>
 
   <p align="center">
-    Short description
+   
 
   </p>
 </p>
