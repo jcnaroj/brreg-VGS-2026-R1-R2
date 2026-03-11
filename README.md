@@ -38,6 +38,22 @@ let tall = 7;
 let tekst = "Dette er en tekst";
 ```
 
+Det er viktig å vite at du **ikke kan lage samme variabel to ganger med `let` i samme kode**.
+
+Dette vil gi feil:
+
+```javascript
+let tall1 = 2;
+let tall1 = 3;
+```
+
+Hvis du vil endre verdien til en variabel, gjør du det slik:
+
+```javascript
+let tall1 = 2;
+tall1 = 3;
+```
+
 Følg disse instruksjonene:
 
 - [ ] 1.Gå inn på https://jsfiddle.net/.
