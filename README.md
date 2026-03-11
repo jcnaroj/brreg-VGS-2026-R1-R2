@@ -413,8 +413,6 @@ for(let index = 0; index < students.length; index++) {
 
 ---
 
-### Oppgave
-
 1. Lag en liste med tre navn:
 
 ```javascript
