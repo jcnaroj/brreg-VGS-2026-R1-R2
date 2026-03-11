@@ -585,7 +585,7 @@ Forskjeller:
 Lette oppgaver
 * [Intro HTML/CSS](https://jsfiddle.net/Sion17/Luh45kxw/100/)
 * [Fibonacci sekvens](https://jsfiddle.net/joakimvu/4dxgcfet/2/)
-* [Intro til å hente data](https://jsfiddle.net/joakimvu/fzvan749/21/)
+* [Intro til å hente data](https://jsfiddle.net/joakimvu/fzvan749/30/)
 * [The Button](https://jsfiddle.net/dith0510/fkn26zyt/)
 
 Middels oppgaver 
