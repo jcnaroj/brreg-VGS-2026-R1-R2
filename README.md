@@ -14,6 +14,7 @@
 - [Steg 1 Variabler og operasjoner](#Steg-1-Variabler-og-operasjoner)
 - [Steg 2 Valgsetninger](#Valgsetninger)
 - [Steg 3 Funksjoner](#Steg-3-Funksjoner)
+- [Steg 4 Løkker](#Steg-3-Løkker)
 - [Linker](#Linker)
 
 
@@ -313,6 +314,122 @@ let grader = fahrenheitTilCelsius(77);
 ```
 
 - Koden over kjører funksjonen fahrenheitTilCelsius med paramenter 77. Funksjonen regner da ut hvor mange celsius 77 fahrenheit er og lagrer denne verdien i variabelen grader. bruk alert for å skrive ut og se hvor mange celsius dette blir.
+
+
+## Steg 4 Løkker
+
+Til nå har vi skrevet kode som kjøres én gang fra topp til bunn. Men noen ganger ønsker vi å gjøre **det samme flere ganger**. Da bruker vi **løkker**.
+
+En løkke lar oss gjenta kode flere ganger automatisk.
+
+Den vanligste løkken i JavaScript heter **for-løkke**.
+
+En for-løkke ser slik ut:
+
+```javascript
+for(let index = 0; index < 5; index++) {
+    // Kode som kjøres flere ganger
+}
+```
+
+Forklaring:
+
+- `let index = 0` → starter på 0  
+- `index < 5` → løkken kjører så lenge dette er sant  
+- `index++` → øker tallet med 1 hver gang  
+
+Koden inni `{ }` vil da kjøre flere ganger.
+
+---
+
+### Eksempel 1 – skriv ut tall
+
+1. Gå inn på https://jsfiddle.net/
+
+2. Skriv følgende kode i JavaScript-vinduet:
+
+```javascript
+for(let i = 0; i < 5; i++) {
+    alert(i);
+}
+```
+
+3. Trykk **Run**
+
+Hva skjer?
+
+Du vil få opp tallene:
+
+```
+0
+1
+2
+3
+4
+```
+
+Prøv å endre `5` til `10`. Hva skjer nå?
+
+---
+
+### Eksempel 2 – skriv ut alle elever
+
+Vi kan også bruke løkker til å gå gjennom en **liste (array)**.
+
+1. Skriv inn følgende kode:
+
+```javascript
+const students = ["Elena", "Baris", "Maria", "Dave"];
+
+for(let index = 0; index < students.length; index++) {
+    console.log("Name of student is: " + students[index]);
+}
+```
+
+Forklaring:
+
+- `students` er en liste med navn
+- `students.length` betyr hvor mange navn som finnes i listen
+- `students[index]` henter ett navn fra listen
+
+Når koden kjører vil dette skrives i **console**:
+
+```
+Name of student is: Elena
+Name of student is: Baris
+Name of student is: Maria
+Name of student is: Dave
+```
+
+Hvis du vil se dette i popup i stedet kan du bruke `alert()`:
+
+```javascript
+const students = ["Elena", "Baris", "Maria", "Dave"];
+
+for(let index = 0; index < students.length; index++) {
+    alert("Name of student is: " + students[index]);
+}
+```
+
+---
+
+### Oppgave
+
+1. Lag en liste med tre navn:
+
+```javascript
+let elever = ["Ola", "Kari", "Per"];
+```
+
+2. Lag en løkke som skriver ut alle navnene med `alert()`.
+
+Hint:
+
+```javascript
+for(let i = 0; i < elever.length; i++) {
+    alert(elever[i]);
+}
+```
 
 ## Linker
 
