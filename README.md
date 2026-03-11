@@ -321,6 +321,7 @@ Lette oppgaver
 * [Intro HTML/CSS](https://jsfiddle.net/Sion17/Luh45kxw/100/)
 * [Fibonacci sekvens](https://jsfiddle.net/joakimvu/4dxgcfet/2/)
 * [Intro til å hente data](https://jsfiddle.net/joakimvu/fzvan749/21/)
+* [The Button](https://jsfiddle.net/dith0510/fkn26zyt/)
 
 Middels oppgaver 
 * [Animasjon](https://jsfiddle.net/Sion17/xtpq9dL8/97/)
@@ -330,7 +331,6 @@ Vanskelige oppgaver
 * [Kalkulatoren](https://jsfiddle.net/Sion17/4ugb05wy/20/)
 * [Cubic Tap](https://jsfiddle.net/dith0510/2wn3r7f0/2/)
 * [TODO Postit](https://jsfiddle.net/dith0510/0jog1q9h/)
-* [The Button](https://jsfiddle.net/dith0510/fkn26zyt/)
 * [Guessing Game](https://jsfiddle.net/dith0510/rs0q2z8g/)
 * [Maskify](https://jsfiddle.net/dith0510/mnL5hg8f/)
 
