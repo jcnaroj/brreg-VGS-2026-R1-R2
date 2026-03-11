@@ -15,9 +15,8 @@
 - [Steg 2 Valgsetninger](#Valgsetninger)
 - [Steg 3 Funksjoner](#Steg-3-Funksjoner)
 - [Steg 4 Løkker](#Steg-3-Løkker)
+- [Python vs JavaScript](#Python-vs-Javascript)
 - [Linker](#Linker)
-
-
 
 
 ## Steg 1 Variabler og operasjoner
@@ -428,6 +427,141 @@ for(let i = 0; i < elever.length; i++) {
     alert(elever[i]);
 }
 ```
+
+## Python vs JavaScript
+
+Mange av konseptene i **JavaScript** og **Python** er ganske like. Forskjellen er ofte bare **syntaksen** (hvordan koden skrives).
+
+Under er noen enkle sammenligninger.
+
+---
+
+### Variabler og operasjoner
+
+**Python**
+
+```python
+tall = 5
+tekst = "Hei"
+
+print(tall + 3)
+```
+
+**JavaScript**
+
+```javascript
+let tall = 5;
+let tekst = "Hei";
+
+console.log(tall + 3);
+```
+
+Forskjeller:
+
+- JavaScript bruker ofte `let` når vi lager variabler
+- JavaScript avslutter linjer med `;`
+- Python bruker `print()`, JavaScript bruker `console.log()` eller `alert()`
+
+---
+
+### Valgsetninger (if)
+
+**Python**
+
+```python
+tall = 5
+
+if tall == 5:
+    print("Tallet er 5")
+else:
+    print("Tallet er ikke 5")
+```
+
+**JavaScript**
+
+```javascript
+let tall = 5;
+
+if(tall === 5) {
+    console.log("Tallet er 5");
+} else {
+    console.log("Tallet er ikke 5");
+}
+```
+
+Forskjeller:
+
+- Python bruker `:` og **innrykk**
+- JavaScript bruker `{ }`
+- Python bruker `==`, JavaScript bruker ofte `===`
+
+---
+
+### Funksjoner
+
+**Python**
+
+```python
+def siHei():
+    print("Hei!")
+
+siHei()
+```
+
+**JavaScript**
+
+```javascript
+function siHei() {
+    console.log("Hei!");
+}
+
+siHei();
+```
+
+Forskjeller:
+
+- Python bruker `def`
+- JavaScript bruker `function`
+- JavaScript bruker `{ }`
+
+---
+
+### Løkker
+
+**Python**
+
+```python
+for i in range(5):
+    print(i)
+```
+
+**JavaScript**
+
+```javascript
+for(let i = 0; i < 5; i++) {
+    console.log(i);
+}
+```
+
+Forskjeller:
+
+- Python bruker `range()`
+- JavaScript bruker start, stopp og økning i løkken
+- JavaScript bruker `{ }`, Python bruker innrykk
+
+---
+
+### Kort oppsummert
+
+| Konsept | Python | JavaScript |
+|--------|--------|-----------|
+| Variabel | `tall = 5` | `let tall = 5;` |
+| Skrive ut | `print()` | `console.log()` |
+| If-setning | `if:` + innrykk | `if() {}` |
+| Funksjon | `def` | `function` |
+| Løkke | `for i in range()` | `for(let i=...)` |
+
+
 
 ## Linker
 
